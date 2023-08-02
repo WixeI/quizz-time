@@ -10,7 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1 className="text-red-500 font-bold underline">Hello world!</h1>
+        <h1 className="text-5xl font-bold text-red-500 underline">
+          Hello World!
+        </h1>
+        <button className="text-blue-500 shadow-sm">Test</button>
       </main>
     </>
   );
